@@ -1,6 +1,4 @@
-![MasterHead](https://images8.alphacoders.com/120/1200075.jpg)
 <h1 align="center">Hi 👋, I'm Nishant Dahiya</h1>
-<h3 align="center">Where art and logic converge in lines of code.</h3>
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/3a/ba/b6/3abab6afe878553af574b187e5ef2168.gif">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nishantdd&label=Profile%20views&color=0e75b6&style=flat" alt="nishantdd" /> </p>
