@@ -9,7 +9,7 @@
    <samp><br>
    Hey there, I'm Nishant!
    <br>
-   I’m currently learning React, Node.js & Dsa.<br>
+   I’m currently learning Next.js & Dsa.<br>
    In the mean time, I'm working on developing Fullstack projects and<br> looking to contribute to other open source
    projects.
    <br>
